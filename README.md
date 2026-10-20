@@ -1,5 +1,3 @@
-# Product-Based-Analysis-Dashboard-Project
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:C1FF72&height=220&section=header&text=End-to-End%20Decision%20Pipeline&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Phosphate%20Trade%20Market&descSize=18&descAlignY=56&animation=fadeIn" alt="Header" />
@@ -42,11 +40,9 @@ This README walks through four parts of the project, each with a screenshot: the
 
 <h2 align="center">📊 The Dashboard</h2>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:C1FF72&height=2&section=header" width="60%" /></p>
+<p align="center"><img src="https://github.com/HasnaElotmani/assets/blob/main/powerbi_dashboard.png" width="60%" /></p>
 
 <div align="center">
-  <img src="assets/powerbi_dashboard_1.png" alt="Power BI dashboard: Product Based Analysis" width="95%" />
-  <br/>
   <sub>The "Product Based Analysis" page (synthetic data)</sub>
 </div>
 
@@ -85,11 +81,9 @@ A 100% stacked column chart, one column per year, showing each importing country
 
 <h2 align="center">🗄️ The Data Model</h2>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:C1FF72&height=2&section=header" width="60%" /></p>
+<p align="center"><img src="https://github.com/HasnaElotmani/assets/blob/main/snowflake_schema.png" width="60%" /></p>
 
 <div align="center">
-  <img src="assets/snowflake_schema.png" alt="Snowflake schema of the data warehouse" width="95%" />
-  <br/>
   <sub>Snowflake schema of the warehouse</sub>
 </div>
 
@@ -140,8 +134,7 @@ flowchart LR
 ### Step 1: the Power Automate flow
 
 <div align="center">
-  <img src="assets/power_automate.png" alt="Power Automate flow run" width="95%" />
-  <br/>
+  <img src="https://github.com/HasnaElotmani/assets/blob/main/power_automate.png" width="95%" />
   <sub>A successful run of the flow</sub>
 </div>
 
@@ -160,8 +153,7 @@ The run banner confirms that the whole flow ran successfully, in a few seconds.
 ### Step 2: refresh in Power BI Service
 
 <div align="center">
-  <img src="assets/powerbi_service.png" alt="Power BI Service lineage view" width="95%" />
-  <br/>
+  <img src="https://github.com/HasnaElotmani/assets/blob/main/powerbi_service.png" width="95%" />
   <sub>Lineage view in Power BI Service</sub>
 </div>
 
